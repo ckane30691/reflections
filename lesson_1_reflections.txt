@@ -1,0 +1,35 @@
+
+1. How did viewing a diff between two versions of a file help you see the bug that was introduced?
+
+Having the two versions side by side allowed me to go line by line until I was able to identify where the bug was.
+
+2. How could having easy access to the entire history of a file make you a more efficient programmer in the long term?
+
+It would make it very simple to go back from a previous save point if you manage to catastrophically fuck up you file.
+If you had to start over from scratch it would be difficult to meet deadlines and would be very frustrating.
+
+3. What do you think are the pros and cons of manually choosing when to create a commit, like you do in Git, vs having 
+versions automatically saved, like Google Docs does?
+
+Pros are that it gives you the power to tweak the versions exactly the way you want them.  Cons easy to forget to commit
+new versions.
+
+4. Why do you think some version control systems, like Git, allow saving multiple files in one commit, while others, like 
+Google Docs, treat each file separately?
+
+Version control systems that allow saving multiple files in one commit do so because they are specifically designed for coding
+and activities where saving multiple files together makes sense.  Google Docs and other systems are designed to be more general
+purpose and in most scenarios it would be better to treat each file seperately.
+
+5. How can you use the commands git log and git diff to view the history of files?
+
+Git log list all of the commits you made throughout the file's history.  Git diff allows you to compare the difference between two
+historic versions of the file.
+
+6. How might using version control make you more confident to make changes that could break something?
+
+Breaking something in your program isn't really a big deal if you can just go back and revert to your working code again.
+
+7. Now that you have your workspace set up, what do you want to try using Git for?
+
+I want to use Git to assist me in creating a portfolio that I can use to find a job.
