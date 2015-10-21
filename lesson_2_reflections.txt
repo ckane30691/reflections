@@ -1,3 +1,7 @@
-What happens when you initialize a repository? Why do you need to do it?
+1. What happens when you initialize a repository? Why do you need to do it?
 
 A repository is what allows you to actually implement version control.  W/o a repository you can't make commits or use git effectively.
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+The Staging Area is powerful because it gives granular control over which files you'd like to commit.  You can commit a single file or multiple files all at once.
