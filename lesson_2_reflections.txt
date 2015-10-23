@@ -17,3 +17,7 @@ An example of when branches would be useful in a situation is if you had a game 
 5. How do the diagrams help you visualize the branch structure?
 
 Diagrams are inherently visual.
+
+6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+
+Merging two branch takes all of the changes from a side branch and adds them to the master branch.  We represent it in the diagram because the side is merging to the master not the other way around.
