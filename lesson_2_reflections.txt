@@ -21,3 +21,7 @@ Diagrams are inherently visual.
 6.What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 
 Merging two branch takes all of the changes from a side branch and adds them to the master branch.  We represent it in the diagram because the side is merging to the master not the other way around.
+
+7. What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Pros of automatic commits is that it saves a lot of time and energy.  Cons are that it's not smart enough to work in every single scenario so there will still be times where you'll have to merge files manually.
