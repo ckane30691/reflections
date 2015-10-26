@@ -13,3 +13,7 @@ Forks are special clones that only apply to the github website.  They allow you 
 4. What is the benefit of having a copy of the last known state of the remote stored locally?
 
 Having a copy of the last known state of the remote would be useful if you're going to be offline for an extended period of time and want make sure you're working with most up to date version of the project.
+
+5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+
+For coding Git & GitHub seem like they would the be the best option.  For non-technical things that don't need extremely granular version control a more n00b friendly system with a GUI might be better for most people.
