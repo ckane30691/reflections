@@ -17,3 +17,7 @@ Having a copy of the last known state of the remote would be useful if you're go
 5. How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
 
 For coding Git & GitHub seem like they would the be the best option.  For non-technical things that don't need extremely granular version control a more n00b friendly system with a GUI might be better for most people.
+
+6. When would you want to make changes in a separate branch rather than directly in master? What benefits does each approach have?
+
+When collaborating all changes should be made on a seperate branch rather than directly in master so that other people who are modifying the project don't have the code changed out from under them.  When working alone its not such a hard and fast rule.  Certain changes like bug fixes could easily be made directly on the master; however, something like an experimental feature should still be put on its own branch so you don't accidently break something on master.
